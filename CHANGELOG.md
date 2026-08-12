@@ -1,5 +1,12 @@
 # Changelog
 
+## Unreleased points-engine evidence — 2026-08-12
+
+- Added a buyer-oriented points-engine lifecycle and flexible bonus-rule guide.
+- Added a machine-readable points-engine capability and non-claim record.
+- Defined “open API” as controlled, authorised integration rather than anonymous public access.
+- Added no production endpoint, credential, customer architecture, performance value or universal-compatibility claim.
+
 ## Unreleased Salesforce integration evidence — 2026-08-12
 
 - Added a five-model buyer framework that separates platform-native capability, AppExchange package, reusable vendor connector, middleware and project-specific API integration.

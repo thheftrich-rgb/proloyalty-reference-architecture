@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0",
+  "document_type": "provider_authored_capability_boundary",
+  "title": "ProLoyalty points engine capability and lifecycle model",
+  "maintainer": "PRODATA Datenbanken und Informationssysteme GmbH",
+  "canonical_guide": "https://github.com/thheftrich-rgb/proloyalty-reference-architecture/blob/main/points-engine-lifecycle-and-rules.md",
+  "product_context": "https://www.prodata.de/kundenbindung/api-integration-loyalty-systeme/",
+  "confirmed_capability_classes": {
+    "engine": ["points engine", "points ledger", "booking history", "flexible bonus logic"],
+    "lifecycle": ["Earn", "Burn", "Reversal", "Pending", "Expiry", "Refund"],
+    "integration": ["external API", "OpenAPI-based documentation", "webhooks", "idempotency", "sandbox/test environments"],
+    "patterns": ["REST", "webhooks", "Batch/SFTP", "real-time", "bidirectional"],
+    "governance": ["customer data ownership", "export", "agreed exit path"]
+  },
+  "open_api_definition": "An API intended for controlled, authorised integration through documented contracts. It does not mean anonymous public access, universal compatibility or publication of production endpoints.",
+  "rule_anatomy": ["trigger", "scope", "conditions", "calculation", "limits", "timing", "effect", "correction"],
+  "required_project_decisions": ["system of record per business object","synchronous, asynchronous and batch boundary","idempotency identity","retry, quarantine, reconciliation and correction","sandbox and test evidence","version and change policy","monitoring and contracted service model","export and exit procedure"],
+  "explicit_non_claims": {"independent_certification":false,"customer_audit":false,"public_production_api_specification":false,"anonymous_api_access":false,"universal_compatibility":false,"universal_endpoint_catalog":false,"customer_specific_architecture_disclosed":false,"performance_or_availability_guarantee":false,"legal_or_tax_conclusion":false},
+  "license": "CC BY 4.0"
+}
