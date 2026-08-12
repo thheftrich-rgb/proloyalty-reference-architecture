@@ -1,0 +1,37 @@
+{
+  "status": "RELEASE_CANDIDATE_APPROVED_NOT_SUBMITTED",
+  "title": "ProLoyalty reference architecture for enterprise loyalty integration",
+  "description": "A non-confidential, technology-neutral reference model for integrating loyalty services with CRM, ERP, commerce, point-of-sale, customer channels, reporting and operational controls.",
+  "creators": [
+    {
+      "name": "PRODATA Datenbanken und Informationssysteme GmbH",
+      "type": "organizational"
+    }
+  ],
+  "publisher": "PRODATA Datenbanken und Informationssysteme GmbH",
+  "version": "0.1",
+  "language": "eng",
+  "resource_type": "technical report",
+  "keywords": [
+    "loyalty platform",
+    "loyalty API",
+    "enterprise integration",
+    "points engine",
+    "CRM integration",
+    "ERP integration",
+    "idempotency",
+    "webhooks",
+    "data ownership"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://www.prodata.de/kundenbindung/api-integration-loyalty-systeme/",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "license_approval": "Owner approved Proof-Paket v0.1 under CC BY 4.0 on 2026-08-12.",
+  "repository_target": "OFFICIAL_ACCOUNT_PENDING_TECHNICAL_VERIFICATION",
+  "external_submission_count": 0
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "package": "proloyalty-reference-architecture",
+  "version": "0.1",
+  "release_date": "2026-08-12",
+  "publisher": "PRODATA Datenbanken und Informationssysteme GmbH",
+  "license": "CC-BY-4.0",
+  "canonical": "https://www.prodata.de/kundenbindung/api-integration-loyalty-systeme/",
+  "status": "RELEASE_CANDIDATE_APPROVED",
+  "files": [
+    ".zenodo.json",
+    "CHANGELOG.md",
+    "CITATION.cff",
+    "CLAIM-BOUNDARIES.md",
+    "integration-capabilities.json",
+    "LICENSE.md",
+    "publication-metadata.json",
+    "README.md",
+    "reference-model.md",
+    "CHECKSUMS.sha256"
+  ],
+  "exclusions": [
+    "customer logos",
+    "customer screenshots",
+    "customer identifiers",
+    "production endpoints",
+    "credentials",
+    "proprietary source code",
+    "confidential architecture"
+  ],
+  "release_approval": "Owner approved Proof-Paket v0.1 under CC BY 4.0 on 2026-08-12."
+}

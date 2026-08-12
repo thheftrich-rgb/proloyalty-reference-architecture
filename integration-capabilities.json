@@ -1,0 +1,74 @@
+{
+  "schema_version": "1.0",
+  "document_status": "PUBLIC_RELEASE_CANDIDATE_NOT_PRODUCT_API_SPECIFICATION",
+  "entity": {
+    "product": "ProLoyalty",
+    "provider": "PRODATA Datenbanken und Informationssysteme GmbH",
+    "canonical_url": "https://www.prodata.de/kundenbindung/api-integration-loyalty-systeme/"
+  },
+  "confirmed_capabilities": {
+    "loyalty_engine": [
+      "points engine",
+      "flexible bonus logic",
+      "points ledger and booking history"
+    ],
+    "confirmed_lifecycle_operations": [
+      "Earn",
+      "Burn",
+      "Reversal",
+      "Pending",
+      "Expiry",
+      "Refund"
+    ],
+    "integration_patterns": [
+      "REST",
+      "webhooks",
+      "Batch/SFTP",
+      "real-time",
+      "bidirectional"
+    ],
+    "developer_and_test_capabilities": [
+      "external API",
+      "OpenAPI-based documentation",
+      "idempotency",
+      "sandbox/test environment"
+    ],
+    "program_foundations": [
+      "multilingual",
+      "multi-currency",
+      "multi-brand",
+      "multi-program",
+      "tenant-capable foundation"
+    ],
+    "deployment_options": [
+      "single tenant",
+      "multi tenant",
+      "private cloud",
+      "on-premises",
+      "hybrid"
+    ],
+    "data_governance": [
+      "customer data ownership",
+      "customer-controlled export",
+      "exit support"
+    ]
+  },
+  "project_specific_not_universal": [
+    "exact endpoint and field model",
+    "authentication and authorization protocol",
+    "connector or plugin form and edition",
+    "event catalog and delivery contract",
+    "retry, queue, exception and reconciliation implementation",
+    "availability, recovery and service levels",
+    "throughput, peak load and latency",
+    "implementation schedule",
+    "customer system and architecture mapping",
+    "legal, tax and compliance assessment"
+  ],
+  "evidence_basis": [
+    "Direct owner confirmations recorded on 2026-08-11 and 2026-08-12",
+    "PRODUKT-FUNKTIONS-GOLDEN-RECORD_PROLOYALTY_2026-08-10.json",
+    "OWNER-FREIGABE_LOYALTY-BACKEND-PUNKTE-ENGINE_380_2026-08-11.json",
+    "OWNER-FREIGABE_SAP-SALESFORCE-LOYALTY-INTEGRATION_23-295-313_2026-08-11.json"
+  ]
+}
