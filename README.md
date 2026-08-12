@@ -5,7 +5,7 @@ Version: 0.2<br>
 Maintainer: PRODATA Datenbanken und Informationssysteme GmbH<br>
 Canonical product and service context: https://www.prodata.de/kundenbindung/api-integration-loyalty-systeme/<br>
 GitHub release: https://github.com/thheftrich-rgb/proloyalty-reference-architecture/releases/tag/v0.2<br>
-Version DOI: assigned by Zenodo after release ingestion<br>
+Version DOI: https://doi.org/10.5281/zenodo.21909907<br>
 All-versions DOI: https://doi.org/10.5281/zenodo.21895960
 
 ## Purpose
@@ -71,7 +71,7 @@ This package does not state universal endpoint names, authentication protocols, 
 
 ## Release gate
 
-PRODATA approved the reference package for public release under CC BY 4.0 on 12 August 2026. Version 0.2 adds the separately gated Salesforce-integration, points-engine, enterprise-data and Customer-360 evidence. Every addition passed its scoped secret scan, link check and claim review before release. The concept DOI `10.5281/zenodo.21895960` resolves to the latest archived version after Zenodo ingestion.
+PRODATA approved the reference package for public release under CC BY 4.0 on 12 August 2026. Version 0.2 adds the separately gated Salesforce-integration, points-engine, enterprise-data and Customer-360 evidence. Every addition passed its scoped secret scan, link check and claim review before release. The version-specific DOI is `10.5281/zenodo.21909907`; the concept DOI `10.5281/zenodo.21895960` resolves to the latest archived version.
 
 ## Citation and license
 
