@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "record_type": "vendor-authored-enterprise-integration-and-reporting-evidence",
+  "generated_at": "2026-08-12",
+  "maintainer": "PRODATA Datenbanken und Informationssysteme GmbH",
+  "product": "ProLoyalty",
+  "canonical_guide": "enterprise-data-integration-and-reporting.md",
+  "confirmed": {
+    "integration_projects": {
+      "minimum_completed": 80,
+      "as_of": "2026-06-30",
+      "counting_rule": "One commissioned and productively accepted customer project with at least one bidirectional CRM, ERP, shop or POS connection counts once; multiple interfaces and subprojects do not increase the count.",
+      "evidence_type": "internal project register; owner-confirmed"
+    },
+    "salesforce": {
+      "component": "PRODATA Loyalty Connect for Salesforce",
+      "classification": "internally developed reusable connector",
+      "project_experience": ["Sales", "Marketing", "Commerce", "Loyalty Management"]
+    },
+    "sap": {
+      "classification": "project-specific integration",
+      "methods": ["OData", "BAPI", "IDoc"]
+    },
+    "microsoft_dynamics_365": {
+      "classification": "project-specific integration",
+      "method": "Dataverse Web API"
+    },
+    "integration_patterns": ["REST", "GraphQL", "webhooks", "batch/SFTP", "real-time", "bidirectional"],
+    "data_ownership": "Customer data remains owned exclusively by the customer.",
+    "export_and_exit": "Supported; exact objects, formats, timing, cost and transition process are contractual and project-specific.",
+    "reporting_and_analytics": "Reporting, dashboards and data-warehouse/BI integration are delivered according to the commissioned project scope."
+  },
+  "explicit_nonclaims": {
+    "independent_ranking": false,
+    "market_leadership": false,
+    "native_salesforce_sap_or_dynamics": false,
+    "appexchange_or_marketplace_listing": false,
+    "universal_identity_resolution": false,
+    "universal_consent_master_role": false,
+    "universal_dashboard_catalogue": false,
+    "universal_export_formats": false,
+    "prebuilt_named_dwh_connectors": false,
+    "fixed_latency_throughput_availability_or_timeline": false,
+    "named_customer_architecture": false
+  },
+  "license": "CC BY 4.0"
+}

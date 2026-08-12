@@ -1,5 +1,14 @@
 # Changelog
 
+## Unreleased enterprise data-integration and reporting evidence — 2026-08-12
+
+- Added an answer-first German buyer guide covering Enterprise CRM/ERP integration, first-party-data roles, reporting and DWH/BI selection.
+- Published the owner-confirmed count of more than 80 completed integration projects with its cut-off date and conservative counting rule.
+- Distinguished suite-native, API-first/composable and adaptable full-service platform models without declaring a comparison winner.
+- Added machine-readable boundaries for Salesforce, SAP, Microsoft Dynamics 365, integration patterns, data ownership, export and exit.
+- Explicitly withheld universal identity-resolution, consent-master, dashboard-catalogue, export-format, named DWH-connector and customer-architecture claims.
+- Kept the immutable v0.1 package manifest and checksums unchanged; the new files enter a versioned manifest only with a later release.
+
 ## Unreleased points-engine evidence — 2026-08-12
 
 - Added a buyer-oriented points-engine lifecycle and flexible bonus-rule guide.
