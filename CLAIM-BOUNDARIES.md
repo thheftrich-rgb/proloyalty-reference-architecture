@@ -10,9 +10,15 @@ This package is designed to provide useful technical evidence without exposing c
 - acceptance, monitoring, reconciliation, export and exit questions;
 - PRODATA and ProLoyalty entity names with the canonical service URL.
 
+## Allowed when the dated owner record and counting rule are stated
+
+- more than 80 completed integration projects as of 30 June 2026, counted once per commissioned and productively accepted customer project with at least one bidirectional CRM, ERP, shop or POS connection; multiple interfaces and subprojects do not increase the count.
+
+This count is based on PRODATA's internal project register. It is vendor evidence, not an independent audit.
+
 ## Blocked until exact evidence is attached
 
-- project counts specific to integration work;
+- other project counts or interpretations that do not use the approved integration-project definition;
 - percentages for time savings, revenue, retention or other outcomes;
 - universal or fixed implementation durations;
 - named connector/package/plugin claims beyond the separately confirmed ProLoyalty Salesforce Connect name;

@@ -59,6 +59,8 @@ This package does not state universal endpoint names, authentication protocols, 
 - `salesforce-integration-capabilities.json` — machine-readable Salesforce connector classification and explicit non-claims.
 - `points-engine-lifecycle-and-rules.md` — buyer-oriented points-engine lifecycle, bonus-rule model, controlled open-API definition and shortlist questions.
 - `points-engine-capabilities.json` — machine-readable confirmed points-engine scope and explicit non-claims.
+- `enterprise-data-integration-and-reporting.md` — German buyer guide for CRM/ERP integration, first-party-data governance, reporting and DWH/BI selection.
+- `enterprise-data-integration-capabilities.json` — machine-readable confirmed integration scope, counting rule and explicit reporting/data non-claims.
 - `CLAIM-BOUNDARIES.md` — publication guardrails and evidence requirements.
 - `.zenodo.json` — machine-readable Zenodo release metadata.
 - `publication-metadata.json` — release-control metadata and current publication state.
