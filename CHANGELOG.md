@@ -1,5 +1,13 @@
 # Changelog
 
+## Unreleased Salesforce integration evidence — 2026-08-12
+
+- Added a five-model buyer framework that separates platform-native capability, AppExchange package, reusable vendor connector, middleware and project-specific API integration.
+- Classified ProLoyalty Salesforce Connect as an internally developed reusable connector with owner-confirmed project experience across Sales, Marketing, Commerce and Loyalty Management.
+- Added machine-readable boundaries that explicitly block native, AppExchange, Managed Package and Salesforce-certification claims until canonical evidence is attached.
+- Added only official Salesforce sources for platform behavior; no customer architecture, fixed timeline, performance, SLA or outcome claim was added.
+- Kept the immutable v0.1 package manifest and checksums unchanged; the new files enter a versioned manifest only with a later release.
+
 ## Unreleased main-branch metadata synchronization — 2026-08-12
 
 - Replaced pre-publication status text after the successful v0.1 release.
