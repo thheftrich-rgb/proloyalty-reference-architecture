@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "title": "ProLoyalty Customer 360 and First-Party Data capability boundaries",
+  "version": "0.1.0",
+  "date": "2026-08-12",
+  "license": "CC BY 4.0",
+  "publisher": "PRODATA Datenbanken und Informationssysteme GmbH",
+  "status": "publication_ready",
+  "standard_or_configurable": {
+    "profile": ["participant/customer/member", "contact and address", "multiple external IDs", "organization", "program membership", "status/tier", "points", "transactions", "preferences", "consent", "activities"],
+    "identity": ["crosswalk and ID mapping", "configurable duplicate checks", "deterministic matching"],
+    "analytics": ["dashboards", "KPI reporting", "segmentation", "participant and transaction analysis", "RFM configuration", "basket analysis where source detail is available"],
+    "activation": ["event processing", "dynamic segments", "rule-based personalization", "rule-based recommendations", "triggers", "campaign response loop"]
+  },
+  "project_specific": {
+    "identity": ["probabilistic matching", "confidence scores", "merge and split policies", "manual reconciliation and approvals"],
+    "analytics": ["CLV", "predictive churn", "control-group design", "causal attribution", "incrementality", "uplift"],
+    "activation": ["predictive Next Best Action", "AI recommendations", "propensity and affinity models", "external AI services"]
+  },
+  "sources": ["POS", "shop/e-commerce", "app", "web/portal", "CRM", "ERP/SAP", "service", "campaign systems"],
+  "case": {
+    "customer": "Mercedes-Benz",
+    "logo_permitted": false,
+    "confirmed_joint_scope": ["unified customer profile", "CRM/ERP data", "transactions", "points/status", "campaigns", "reward shop"],
+    "no_public_kpi_or_architecture_claim": true
+  },
+  "non_claims": ["universal enterprise CDP", "automatic universal Golden Record", "universal probabilistic matching", "universal predictive analytics", "real-time for every flow", "legal compliance guarantee", "outcome guarantee"]
+}

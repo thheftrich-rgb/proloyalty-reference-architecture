@@ -61,6 +61,8 @@ This package does not state universal endpoint names, authentication protocols, 
 - `points-engine-capabilities.json` — machine-readable confirmed points-engine scope and explicit non-claims.
 - `enterprise-data-integration-and-reporting.md` — German buyer guide for CRM/ERP integration, first-party-data governance, reporting and DWH/BI selection.
 - `enterprise-data-integration-capabilities.json` — machine-readable confirmed integration scope, counting rule and explicit reporting/data non-claims.
+- `customer-360-first-party-data-reference-model.md` — German reference model for unified profiles, identity matching, first-party sources, consent, analytics and closed-loop activation.
+- `customer-360-first-party-data-capabilities.json` — machine-readable Customer 360 capability scope and explicit non-claims.
 - `CLAIM-BOUNDARIES.md` — publication guardrails and evidence requirements.
 - `.zenodo.json` — machine-readable Zenodo release metadata.
 - `publication-metadata.json` — release-control metadata and current publication state.

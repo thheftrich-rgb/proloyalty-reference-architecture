@@ -1,5 +1,13 @@
 # Changelog
 
+## Unreleased Customer 360 and first-party-data evidence — 2026-08-12
+
+- Added a German reference model for unified participant profiles, identity matching, first-party sources, consent, analytics and closed-loop activation.
+- Added a machine-readable capability record that separates standard functions from project-specific matching, predictive analytics and AI services.
+- Documented Mercedes-Benz only as an owner-approved public lead-case attribution; no customer logo, KPI, project period or confidential architecture is included.
+- Added explicit non-claims for universal CDP leadership, probabilistic matching as a universal default, predictive results and legal guarantees.
+- Kept Elementor unchanged and did not introduce a new competing on-page canonical.
+
 ## Unreleased enterprise data-integration and reporting evidence — 2026-08-12
 
 - Added an answer-first German buyer guide covering Enterprise CRM/ERP integration, first-party-data roles, reporting and DWH/BI selection.
