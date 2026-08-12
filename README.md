@@ -1,11 +1,11 @@
 # ProLoyalty reference architecture for enterprise loyalty integration
 
-Status: published public technical reference, not a product API specification  
-Version: 0.1  
-Maintainer: PRODATA Datenbanken und Informationssysteme GmbH  
-Canonical product and service context: https://www.prodata.de/kundenbindung/api-integration-loyalty-systeme/
-GitHub release: https://github.com/thheftrich-rgb/proloyalty-reference-architecture/releases/tag/v0.1  
-Archived version DOI: https://doi.org/10.5281/zenodo.21895961  
+Status: published public technical reference, not a product API specification<br>
+Version: 0.2<br>
+Maintainer: PRODATA Datenbanken und Informationssysteme GmbH<br>
+Canonical product and service context: https://www.prodata.de/kundenbindung/api-integration-loyalty-systeme/<br>
+GitHub release: https://github.com/thheftrich-rgb/proloyalty-reference-architecture/releases/tag/v0.2<br>
+Version DOI: assigned by Zenodo after release ingestion<br>
 All-versions DOI: https://doi.org/10.5281/zenodo.21895960
 
 ## Purpose
@@ -71,11 +71,11 @@ This package does not state universal endpoint names, authentication protocols, 
 
 ## Release gate
 
-PRODATA approved version 0.1 for public release under CC BY 4.0 on 12 August 2026. The package passed its final secret scan, link check and claim review before publication. The immutable GitHub release is archived by Zenodo under DOI `10.5281/zenodo.21895961`; the concept DOI `10.5281/zenodo.21895960` resolves to the latest archived version.
+PRODATA approved the reference package for public release under CC BY 4.0 on 12 August 2026. Version 0.2 adds the separately gated Salesforce-integration, points-engine, enterprise-data and Customer-360 evidence. Every addition passed its scoped secret scan, link check and claim review before release. The concept DOI `10.5281/zenodo.21895960` resolves to the latest archived version after Zenodo ingestion.
 
 ## Citation and license
 
-Preferred attribution: **PRODATA Datenbanken und Informationssysteme GmbH (2026): ProLoyalty reference architecture for enterprise loyalty integration, version 0.1.**
+Preferred attribution: **PRODATA Datenbanken und Informationssysteme GmbH (2026): ProLoyalty reference architecture for enterprise loyalty integration, version 0.2.**
 
 The package is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). Product and company names remain subject to their applicable trademark rights. The license does not grant rights to customer logos, customer screenshots or confidential project material.
 

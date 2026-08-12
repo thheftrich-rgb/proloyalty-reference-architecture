@@ -1,22 +1,31 @@
 {
   "schema_version": "1.0",
   "package": "proloyalty-reference-architecture",
-  "version": "0.1",
+  "version": "0.2",
   "release_date": "2026-08-12",
   "publisher": "PRODATA Datenbanken und Informationssysteme GmbH",
   "license": "CC-BY-4.0",
   "canonical": "https://www.prodata.de/kundenbindung/api-integration-loyalty-systeme/",
-  "status": "PUBLISHED_V0_1",
+  "status": "PUBLISHED_V0_2_ZENODO_VERSION_DOI_PENDING",
   "files": [
     ".zenodo.json",
     "CHANGELOG.md",
     "CITATION.cff",
     "CLAIM-BOUNDARIES.md",
+    "customer-360-first-party-data-capabilities.json",
+    "customer-360-first-party-data-reference-model.md",
+    "enterprise-data-integration-and-reporting.md",
+    "enterprise-data-integration-capabilities.json",
     "integration-capabilities.json",
     "LICENSE.md",
+    "PACKAGE-MANIFEST.json",
     "publication-metadata.json",
     "README.md",
     "reference-model.md",
+    "points-engine-capabilities.json",
+    "points-engine-lifecycle-and-rules.md",
+    "salesforce-integration-capabilities.json",
+    "salesforce-integration-models.md",
     "CHECKSUMS.sha256"
   ],
   "exclusions": [
@@ -28,5 +37,5 @@
     "proprietary source code",
     "confidential architecture"
   ],
-  "release_approval": "Owner approved Proof-Paket v0.1 under CC BY 4.0 on 2026-08-12."
+  "release_approval": "Owner approved the public proof package under CC BY 4.0; scoped GitHub and Zenodo quality gates for all v0.2 additions passed on 2026-08-12."
 }

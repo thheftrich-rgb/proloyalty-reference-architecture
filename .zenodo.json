@@ -2,13 +2,13 @@
   "title": "ProLoyalty reference architecture for enterprise loyalty integration",
   "upload_type": "publication",
   "publication_type": "technicalnote",
-  "description": "A non-confidential, technology-neutral reference model for integrating loyalty services with CRM, ERP, commerce, point-of-sale, customer channels, reporting and operational controls. The package defines conceptual domains, lifecycle states, integration patterns, acceptance evidence and explicit claim boundaries; it is not a production API specification.",
+  "description": "A non-confidential, technology-neutral reference model for enterprise loyalty integration, points-engine lifecycle, Customer 360, first-party data, identity matching, analytics and operational controls. The package separates confirmed capabilities from project-specific functions and explicit non-claims; it is not a production API specification.",
   "creators": [
     {
       "name": "PRODATA Datenbanken und Informationssysteme GmbH"
     }
   ],
-  "version": "0.1",
+  "version": "0.2",
   "language": "eng",
   "license": "cc-by-4.0",
   "keywords": [
@@ -20,7 +20,11 @@
     "ERP integration",
     "idempotency",
     "webhooks",
-    "data ownership"
+    "data ownership",
+    "Customer 360",
+    "first-party data",
+    "identity resolution",
+    "loyalty analytics"
   ],
   "related_identifiers": [
     {

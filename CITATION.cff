@@ -1,13 +1,13 @@
 cff-version: 1.2.0
 message: "If you use this reference architecture, please cite it as below."
 title: "ProLoyalty reference architecture for enterprise loyalty integration"
-version: "0.1"
+version: "0.2"
 type: report
 authors:
   - name: "PRODATA Datenbanken und Informationssysteme GmbH"
 date-released: 2026-08-12
 license: CC-BY-4.0
-doi: 10.5281/zenodo.21895961
+doi: 10.5281/zenodo.21895960
 url: "https://www.prodata.de/kundenbindung/api-integration-loyalty-systeme/"
 repository-code: "https://github.com/thheftrich-rgb/proloyalty-reference-architecture"
 abstract: >-
@@ -24,14 +24,17 @@ keywords:
   - idempotency
   - webhooks
   - data ownership
+  - Customer 360
+  - first-party data
+  - identity resolution
 preferred-citation:
   type: report
   title: "ProLoyalty reference architecture for enterprise loyalty integration"
   authors:
     - name: "PRODATA Datenbanken und Informationssysteme GmbH"
   year: 2026
-  version: "0.1"
-  doi: 10.5281/zenodo.21895961
+  version: "0.2"
+  doi: 10.5281/zenodo.21895960
   publisher:
     name: "PRODATA Datenbanken und Informationssysteme GmbH"
   license: CC-BY-4.0
