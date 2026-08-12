@@ -7,7 +7,9 @@ authors:
   - name: "PRODATA Datenbanken und Informationssysteme GmbH"
 date-released: 2026-08-12
 license: CC-BY-4.0
+doi: 10.5281/zenodo.21895961
 url: "https://www.prodata.de/kundenbindung/api-integration-loyalty-systeme/"
+repository-code: "https://github.com/thheftrich-rgb/proloyalty-reference-architecture"
 abstract: >-
   A non-confidential, technology-neutral reference model for integrating loyalty
   services with CRM, ERP, commerce, point-of-sale, customer channels, reporting
@@ -29,6 +31,7 @@ preferred-citation:
     - name: "PRODATA Datenbanken und Informationssysteme GmbH"
   year: 2026
   version: "0.1"
+  doi: 10.5281/zenodo.21895961
   publisher:
     name: "PRODATA Datenbanken und Informationssysteme GmbH"
   license: CC-BY-4.0

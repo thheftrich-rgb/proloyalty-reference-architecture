@@ -1,5 +1,12 @@
 # Changelog
 
+## Unreleased main-branch metadata synchronization — 2026-08-12
+
+- Replaced pre-publication status text after the successful v0.1 release.
+- Added the public GitHub release, exact Zenodo DOI and all-versions concept DOI.
+- Synchronized the machine-readable publication state with the live release.
+- No capability, performance, security, customer or business-outcome claim changed.
+
 ## 0.1 — 2026-08-12
 
 - Initial public reference architecture.

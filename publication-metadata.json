@@ -1,5 +1,5 @@
 {
-  "status": "RELEASE_CANDIDATE_APPROVED_NOT_SUBMITTED",
+  "status": "PUBLISHED",
   "title": "ProLoyalty reference architecture for enterprise loyalty integration",
   "description": "A non-confidential, technology-neutral reference model for integrating loyalty services with CRM, ERP, commerce, point-of-sale, customer channels, reporting and operational controls.",
   "creators": [
@@ -32,6 +32,11 @@
   ],
   "license": "CC-BY-4.0",
   "license_approval": "Owner approved Proof-Paket v0.1 under CC BY 4.0 on 2026-08-12.",
-  "repository_target": "OFFICIAL_ACCOUNT_PENDING_TECHNICAL_VERIFICATION",
-  "external_submission_count": 0
+  "repository_target": "https://github.com/thheftrich-rgb/proloyalty-reference-architecture",
+  "github_release": "https://github.com/thheftrich-rgb/proloyalty-reference-architecture/releases/tag/v0.1",
+  "zenodo_record": "https://zenodo.org/records/21895961",
+  "version_doi": "10.5281/zenodo.21895961",
+  "concept_doi": "10.5281/zenodo.21895960",
+  "published_at": "2026-08-12",
+  "external_submission_count": 2
 }

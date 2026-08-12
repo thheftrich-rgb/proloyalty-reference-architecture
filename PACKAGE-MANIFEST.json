@@ -6,7 +6,7 @@
   "publisher": "PRODATA Datenbanken und Informationssysteme GmbH",
   "license": "CC-BY-4.0",
   "canonical": "https://www.prodata.de/kundenbindung/api-integration-loyalty-systeme/",
-  "status": "RELEASE_CANDIDATE_APPROVED",
+  "status": "PUBLISHED_V0_1",
   "files": [
     ".zenodo.json",
     "CHANGELOG.md",

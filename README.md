@@ -1,9 +1,12 @@
 # ProLoyalty reference architecture for enterprise loyalty integration
 
-Status: public release candidate, not a product API specification  
+Status: published public technical reference, not a product API specification  
 Version: 0.1  
 Maintainer: PRODATA Datenbanken und Informationssysteme GmbH  
 Canonical product and service context: https://www.prodata.de/kundenbindung/api-integration-loyalty-systeme/
+GitHub release: https://github.com/thheftrich-rgb/proloyalty-reference-architecture/releases/tag/v0.1  
+Archived version DOI: https://doi.org/10.5281/zenodo.21895961  
+All-versions DOI: https://doi.org/10.5281/zenodo.21895960
 
 ## Purpose
 
@@ -60,7 +63,7 @@ This package does not state universal endpoint names, authentication protocols, 
 
 ## Release gate
 
-PRODATA approved version 0.1 for public release under CC BY 4.0 on 12 August 2026. A final secret scan, link check and claim review remain mandatory immediately before release.
+PRODATA approved version 0.1 for public release under CC BY 4.0 on 12 August 2026. The package passed its final secret scan, link check and claim review before publication. The immutable GitHub release is archived by Zenodo under DOI `10.5281/zenodo.21895961`; the concept DOI `10.5281/zenodo.21895960` resolves to the latest archived version.
 
 ## Citation and license
 
