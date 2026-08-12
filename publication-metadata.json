@@ -38,9 +38,9 @@
   "license_approval": "Owner approved the public proof package under CC BY 4.0; scoped GitHub and Zenodo gates for the v0.2 additions passed on 2026-08-12.",
   "repository_target": "https://github.com/thheftrich-rgb/proloyalty-reference-architecture",
   "github_release": "https://github.com/thheftrich-rgb/proloyalty-reference-architecture/releases/tag/v0.2",
-  "zenodo_record": null,
-  "version_doi": null,
-  "version_doi_status": "PENDING_ZENODO_RELEASE_INGESTION",
+  "zenodo_record": "https://zenodo.org/records/21909907",
+  "version_doi": "10.5281/zenodo.21909907",
+  "version_doi_status": "PUBLISHED",
   "concept_doi": "10.5281/zenodo.21895960",
   "published_at": "2026-08-12",
   "external_submission_count": 2

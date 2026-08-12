@@ -2,6 +2,11 @@
 
 ## 0.2 — 2026-08-12
 
+### Post-release citation metadata
+
+- Recorded the published Zenodo v0.2 record and version DOI `10.5281/zenodo.21909907` on the live main branch.
+- Kept the immutable GitHub v0.2 tag and Zenodo archive unchanged; this synchronization updates citation metadata only.
+
 ### Customer 360 and first-party-data evidence
 
 - Added a German reference model for unified participant profiles, identity matching, first-party sources, consent, analytics and closed-loop activation.
