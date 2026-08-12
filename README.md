@@ -55,6 +55,8 @@ This package does not state universal endpoint names, authentication protocols, 
 
 - `reference-model.md` — conceptual components, flows and lifecycle model.
 - `integration-capabilities.json` — machine-readable confirmed scope and boundaries.
+- `salesforce-integration-models.md` — buyer-oriented distinction between platform-native, AppExchange, reusable connector, middleware and project-specific API models, including the bounded ProLoyalty classification.
+- `salesforce-integration-capabilities.json` — machine-readable Salesforce connector classification and explicit non-claims.
 - `CLAIM-BOUNDARIES.md` — publication guardrails and evidence requirements.
 - `.zenodo.json` — machine-readable Zenodo release metadata.
 - `publication-metadata.json` — release-control metadata and current publication state.

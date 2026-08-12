@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0",
+  "document_status": "PUBLIC_REFERENCE_NOT_MARKETPLACE_LISTING",
+  "last_reviewed": "2026-08-12",
+  "entity": {
+    "product": "ProLoyalty",
+    "provider": "PRODATA Datenbanken und Informationssysteme GmbH",
+    "connector": "ProLoyalty Salesforce Connect",
+    "canonical_context": "https://www.prodata.de/kundenbindung/api-integration-loyalty-systeme/"
+  },
+  "classification": {
+    "integration_model": "vendor-maintained reusable connector",
+    "delivery_form": "internally developed reusable connector",
+    "public_native_claim": false,
+    "appexchange_listing_verified_in_this_record": false,
+    "managed_package_verified_in_this_record": false,
+    "salesforce_certification_verified_in_this_record": false
+  },
+  "owner_confirmed_salesforce_product_families_used_in_real_projects": ["Sales", "Marketing", "Commerce", "Loyalty Management"],
+  "project_specific": [
+    "Salesforce products and editions",
+    "objects and fields",
+    "source and target system ownership",
+    "event catalog and data directions",
+    "authentication and authorization model",
+    "synchronous and asynchronous processing",
+    "idempotency, retry, queue and reconciliation behavior",
+    "environments, tests and acceptance criteria",
+    "monitoring, support and release responsibilities",
+    "implementation schedule and service levels"
+  ],
+  "integration_models": [
+    "platform-native capability",
+    "AppExchange package",
+    "reusable vendor connector",
+    "middleware or iPaaS pattern",
+    "project-specific API integration"
+  ],
+  "official_salesforce_sources": [
+    "https://developer.salesforce.com/docs/platform/connect-rest-api/guide/quickstart.html",
+    "https://developer.salesforce.com/docs/platform/connect-rest-api/guide/intro_architecture.html",
+    "https://developer.salesforce.com/docs/industries/loyalty/guide/get-started.html"
+  ],
+  "evidence_boundary": "Official Salesforce sources document Salesforce platform behavior, not the ProLoyalty connector. Connector name, model and product-family experience are owner-confirmed PRODATA statements.",
+  "blocked_claims": [
+    "native Salesforce integration",
+    "AppExchange-listed",
+    "Managed Package",
+    "Salesforce-certified",
+    "all Salesforce editions or objects",
+    "universal authentication or security configuration",
+    "fixed implementation time",
+    "universal SLA, latency or throughput",
+    "customer-specific architecture",
+    "ranking or outcome guarantee"
+  ]
+}
